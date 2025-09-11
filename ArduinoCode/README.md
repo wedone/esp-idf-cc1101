@@ -1,7 +1,7 @@
 # Example of Arduino environment   
 I use [this](https://github.com/veonik/arduino-cc1101) library.   
 
-# Wirering
+# Wiring
 
 |CC1101||ATmega328|ATmega2560|
 |:-:|:-:|:-:|:-:|
